@@ -259,9 +259,7 @@ describe('retornarPerimetro(lado)', function() {
     expect(retornarPerimetro(8)).toBe(32);
     expect(retornarPerimetro(0)).toBe(0);
   });
-});
-
-
+})
 describe('areaDelTriangulo( base, altura)', function() {
   it('Deberia retornar el area correcta del triángulo', function() {
     expect(areaDelTriangulo(10, 5)).toBe(25);
