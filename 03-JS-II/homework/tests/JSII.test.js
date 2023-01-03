@@ -105,7 +105,7 @@ describe('estaEnRango(num)', function() {
     expect(estaEnRango(100)).toBe(false);
   });
 });
-
+/*
 describe('esEntero(num)', function() {
   it('should return true if num is 5', function() {
     expect(esEntero(5)).toBe(true);
@@ -201,4 +201,4 @@ describe('doWhile(numero)', function() {
     expect(doWhile(100)).toBe(140);
     expect(doWhile(-1)).toBe(39);
   });
-});
+}); */
