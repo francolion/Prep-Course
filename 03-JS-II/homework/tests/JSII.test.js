@@ -105,7 +105,7 @@ describe('estaEnRango(num)', function() {
     expect(estaEnRango(100)).toBe(false);
   });
 });
-/*
+
 describe('esEntero(num)', function() {
   it('should return true if num is 5', function() {
     expect(esEntero(5)).toBe(true);
@@ -194,7 +194,7 @@ describe ('tieneTresDigitos(numero)', function() {
     expect(tieneTresDigitos(20000)).toBe(false);
   });
 });
-
+/*
 describe('doWhile(numero)', function() {
   it('should add 5 to number until reaching a limit of 8 times and return the sum value', function() {
     expect(doWhile(5)).toBe(45);
