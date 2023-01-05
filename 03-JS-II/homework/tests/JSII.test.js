@@ -194,11 +194,11 @@ describe ('tieneTresDigitos(numero)', function() {
     expect(tieneTresDigitos(20000)).toBe(false);
   });
 });
-/*
+
 describe('doWhile(numero)', function() {
   it('should add 5 to number until reaching a limit of 8 times and return the sum value', function() {
     expect(doWhile(5)).toBe(45);
     expect(doWhile(100)).toBe(140);
     expect(doWhile(-1)).toBe(39);
   });
-}); */
+}); 
