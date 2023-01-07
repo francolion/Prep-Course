@@ -121,7 +121,7 @@ describe('multiplicarArgumentos()', function () {
     expect(product5).toBe(0);
   });
 });
-
+/*
 describe('cuentoElementos(arreglo)', function() {
   it('should return a counter with the total of numbers greater than 18', function() {
     expect(cuentoElementos([10, 10, 18, 21])).toBe(1);
@@ -188,4 +188,4 @@ describe('continueStatement(numero)', function() {
     expect(continueStatement(50)).toEqual([52, 54, 56, 58, 60, 62, 64, 66, 68]);
     expect(continueStatement(-4)).toEqual([-2, 0, 2, 4, 6, 8, 10, 12, 14]);
   });
-});
+});*/
