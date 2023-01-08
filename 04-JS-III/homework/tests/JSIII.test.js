@@ -121,7 +121,7 @@ describe('multiplicarArgumentos()', function () {
     expect(product5).toBe(0);
   });
 });
-/*
+
 describe('cuentoElementos(arreglo)', function() {
   it('should return a counter with the total of numbers greater than 18', function() {
     expect(cuentoElementos([10, 10, 18, 21])).toBe(1);
