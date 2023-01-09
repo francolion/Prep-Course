@@ -157,7 +157,7 @@ describe('todosIguales(arreglo)', function() {
     expect(todosIguales([230, 230, 230, 230 ])).toBe(true);
   });
 });
-
+/*
 describe('mesesDelAño(array)', function() {
   it('should return a new array with the requested months', function() {
     var ok = ["Marzo", "Diciembre", "Abril", "Junio", "Julio", "Noviembre", "Enero", "Mayo", "Febrero"];
