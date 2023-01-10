@@ -173,7 +173,7 @@ describe('mayorACien(array)', function() {
     expect(mayorACien(integers)).toEqual([200, 120, 160, 148]);
   });
 });
-/*
+
 describe('breakStatement(numero)', function() {
   it('should return an array with the values ​​resulting from adding 2 in each iteration', function() {
     expect(breakStatement(50)).toEqual([52, 54, 56, 58, 60, 62, 64, 66, 68, 70]);
@@ -188,4 +188,4 @@ describe('continueStatement(numero)', function() {
     expect(continueStatement(50)).toEqual([52, 54, 56, 58, 60, 62, 64, 66, 68]);
     expect(continueStatement(-4)).toEqual([-2, 0, 2, 4, 6, 8, 10, 12, 14]);
   });
-});*/
+});
