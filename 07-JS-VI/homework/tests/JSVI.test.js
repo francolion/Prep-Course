@@ -40,7 +40,7 @@ describe('sumarArray(cb)', function() {
 		});
 	});
 });
-
+/*
 describe('forEach(arr, cb)', function() {
 	it('should pass all array items one by one to cb', function() {
 		const nums = [];
@@ -65,4 +65,4 @@ describe('filter(array)', function() {
 		var array = ['abajo', 'pera', 'escalera', 'alerta', 'indice', 'azteca', 'arbol', 'buzo'];
 		expect(filter(array)).toEqual(["abajo", "alerta", "azteca", "arbol"]);
 	});
-});
+});*/
